@@ -1,4 +1,3 @@
-### Hi there 👋, welcome to my Github!
 
 <h1 align="center">Hi 👋, I'm Nguyen Huu Pham Tuan</h1>
 <h3 align="center">A passionate Fronte-End Developer from Viet Nam</h3>
